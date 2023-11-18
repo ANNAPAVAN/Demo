@@ -1,0 +1,36 @@
+.a1{
+    background-color:rgb(127, 255, 155);
+    padding:15px;
+    text-align:center;
+    margin-bottom: 0px;
+}
+.a2 {
+    display: inline-block; 
+    margin-right: 20px; 
+    margin-top: 5px; 
+    margin-bottom: 5px;
+    
+}
+.a3{
+    background-color:aqua
+    
+}
+.a4{
+    display:flex;
+}
+.a5{
+    background-color: yellow;
+    
+}
+.a6{
+    
+    background-color: rgb(172, 172, 172);
+}
+.a8{
+    margin-left: 25px;
+
+}
+.a9{
+    margin-top: 0px;
+    background-color: aqua;
+}
